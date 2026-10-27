@@ -52,3 +52,15 @@ crashlytics-build.properties
 # OS
 .DS_Store
 Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+ENV/
+env/
+.ipynb_checkpoints/
